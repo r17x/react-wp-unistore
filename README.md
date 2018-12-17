@@ -7,7 +7,7 @@ An example React.JS with Wordpress (WP JSON v2) and Unistore (State Management).
 
 ![Example Demo](https://github.com/ri7nz/react-wp-unistore/blob/master/docs/demo.jpg)
 
-# instalation
+# Installation
 ```
 $ git clone 
 $ cd react-wp-unistore

@@ -1,0 +1,8 @@
+.ant-input-group-addon {
+    cursor: pointer;
+}
+.ant-skeleton,
+.ant-skeleton-content,
+.ant-skeleton-paragraph {
+    padding-left: 0;
+}

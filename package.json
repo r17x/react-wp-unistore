@@ -8,7 +8,7 @@
     "axios": "0.18.0",
     "babel-plugin-import": "1.11.0",
     "babel-plugin-root-import": "6.1.0",
-    "eslint": "5.10.0",
+    "eslint": "7.28.0",
     "eslint-config-google": "0.9.1",
     "eslint-plugin-react": "7.11.1",
     "react-app-rewire-less": "2.1.3",

@@ -11968,10 +11968,10 @@ unist-util-stringify-position@^2.0.0:
   dependencies:
     "@types/unist" "^2.0.2"
 
-unistore@3.1.0:
-  version "3.1.0"
-  resolved "https://registry.yarnpkg.com/unistore/-/unistore-3.1.0.tgz#38ba40ba43e6d0cb89e842b6216469736c93dd34"
-  integrity sha512-odZJeaB7ZDu8pDLOIhUeB5ttcPL6ANtPCua/+rdO31XL++03/zfw6WoQz/tuyqzRhZezCEHT97aV0GJx4dvl6g==
+unistore@3.5.2:
+  version "3.5.2"
+  resolved "https://registry.yarnpkg.com/unistore/-/unistore-3.5.2.tgz#ec3ae07bc497fb35ff8b99f85c878ec47c787cb4"
+  integrity sha512-2Aa4eX0Ua1umyiI3Eai6Li+wXYOHgaDBGOPB3Hvw7PAVuD30TAyh5kS4yNKb2fLDbQgizvPhKQRcYnOdfsm4VQ==
 
 universalify@^0.1.0:
   version "0.1.2"

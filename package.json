@@ -18,7 +18,7 @@
     "react-router-dom": "5.0.0",
     "react-scripts": "3.0.0",
     "react-test-renderer": "16.6.3",
-    "unistore": "3.1.0"
+    "unistore": "3.5.2"
   },
   "dependencies": {
     "react": "16.6.3",

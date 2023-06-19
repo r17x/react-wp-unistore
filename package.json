@@ -16,7 +16,7 @@
     "react-html-parser": "2.0.2",
     "react-infinite-scroller": "1.2.2",
     "react-router-dom": "5.0.0",
-    "react-scripts": "3.0.0",
+    "react-scripts": "3.4.4",
     "react-test-renderer": "16.6.3",
     "unistore": "3.1.0"
   },

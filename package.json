@@ -6,7 +6,7 @@
   "devDependencies": {
     "antd": "3.16.3",
     "axios": "0.18.0",
-    "babel-plugin-import": "1.11.0",
+    "babel-plugin-import": "1.13.6",
     "babel-plugin-root-import": "6.1.0",
     "eslint": "5.10.0",
     "eslint-config-google": "0.9.1",
